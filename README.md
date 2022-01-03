@@ -2,4 +2,4 @@
 
 readme.md file was just edited manually.
 
-this file was modified locally.
+this line was modified mannually during conflict resolution
